@@ -1,1 +1,46 @@
-# Dicoding-Proyek-Akhir-Klasifikasi-Gambar
+# Rock, Paper, Scissors Image Classification with CNN
+
+This project is a simple image classification model using Convolutional Neural Networks (CNN) to classify rock, paper, and scissors hand signs.
+
+## Dataset
+
+The dataset consists of hand signs for rock, paper, and scissors. The dataset is divided into training and validation sets.
+
+- Training Set: `rockpaperscissors/train`
+- Validation Set: `rockpaperscissors/val`
+
+## Data Augmentation
+
+Data augmentation is applied using the `ImageDataGenerator` from Keras to artificially increase the size of the training dataset.
+
+## Model Architecture
+
+The model is built using the Sequential API from TensorFlow's Keras. It consists of several convolutional and pooling layers followed by dense layers.
+
+## Training
+
+The model is compiled using the Adam optimizer and categorical crossentropy loss. It is trained on the training set and validated on the validation set.
+
+## Usage
+
+1. Upload an image of a hand sign for rock, paper, or scissors to the Colab environment.
+2. Execute the provided code to make predictions on the uploaded image.
+
+## Dependencies
+
+- TensorFlow
+- Keras
+- scikit-learn
+
+## How to Run
+
+1. Upload the provided code to a Google Colab environment.
+2. Execute each cell sequentially to download the dataset, preprocess it, build the model, train the model, and make predictions on uploaded images.
+
+## Author
+
+[Portfolio](https://aburijal26.wixsite.com/portfolio)
+
+[LinkedIn]([https://aburijal26.wixsite.com/portfolio](https://www.linkedin.com/in/muhammad-abu-rijal-kusnaedi))
+
+Feel free to customize this README according to the specific details of your code and project. If you have any additional sections or information to include, please do so.
