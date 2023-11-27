@@ -9,6 +9,8 @@ The dataset consists of hand signs for rock, paper, and scissors. The dataset is
 - Training Set: `rockpaperscissors/train`
 - Validation Set: `rockpaperscissors/val`
 
+[Dataset](https://github.com/dicodingacademy/assets/releases/tag/model-rockpaperscissors)
+
 ## Data Augmentation
 
 Data augmentation is applied using the `ImageDataGenerator` from Keras to artificially increase the size of the training dataset.
