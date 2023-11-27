@@ -17,7 +17,7 @@ Data augmentation is applied using the `ImageDataGenerator` from Keras to artifi
 
 ## Model Architecture
 
-The model is built using the Sequential API from TensorFlow's Keras. It consists of several convolutional and pooling layers followed by dense layers.
+The model is built using the Sequential API from TensorFlow's Keras. It consists of several convolutional and pooling layers, followed by dense layers.
 
 ## Training
 
@@ -45,4 +45,4 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-abu-rijal-kusnaedi)
 
-Feel free to customize this README according to the specific details of your code and project. If you have any additional sections or information to include, please do so.
+
