@@ -41,6 +41,6 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 [Portfolio](https://aburijal26.wixsite.com/portfolio)
 
-[LinkedIn]([https://aburijal26.wixsite.com/portfolio](https://www.linkedin.com/in/muhammad-abu-rijal-kusnaedi))
+[LinkedIn](https://www.linkedin.com/in/muhammad-abu-rijal-kusnaedi)
 
 Feel free to customize this README according to the specific details of your code and project. If you have any additional sections or information to include, please do so.
